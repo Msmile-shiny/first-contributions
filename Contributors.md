@@ -1,5 +1,6 @@
 # Contributors
 - [Kashish](https://github.com/Kashish1074)
+- [Mushroom mahaha](https://github.com/Msmile-shiny)
 - [SidGod](https://github.com/starboylive) 
 - [Tejika Singh](https://github.com/TejikaSingh02)
 - [Siddh Tyagi](https://github.com/siddhtyagi18)
